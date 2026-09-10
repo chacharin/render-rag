@@ -1,0 +1,2163 @@
+{
+  "ระเบียบสํานักนายกรัฐมนตรี วาดวยงานสารบรรณ พ.ศ. ๒๕๒๖": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ระเบียบสํานักนายกรัฐมนตรี วาดวยงานสารบรรณ พ.ศ. ๒๕๒๖"
+  },
+  "คณะรัฐมนตรี": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "คณะรัฐมนตรี"
+  },
+  "งานสารบรรณ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "งานสารบรรณ"
+  },
+  "หนังสือราชการ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "หนังสือราชการ"
+  },
+  "สวนราชการ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-000",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-004"
+    ],
+    "count": 2,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "สวนราชการ"
+  },
+  "คณะกรรมการ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-000",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-001",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-002",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-004"
+    ],
+    "count": 4,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "คณะกรรมการ"
+  },
+  "ระเบียบสํานักนายกรัฐมนตรี วาดวยงานสารบรรณ พ.ศ. ๒๕๐๖": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ระเบียบสํานักนายกรัฐมนตรี วาดวยงานสารบรรณ พ.ศ. ๒๕๐๖"
+  },
+  "ระเบียบสํานักนายกรัฐมนตรี วาดวยการลงชื่อในหนังสือราชการ พ.ศ. ๒๕๐๗": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ระเบียบสํานักนายกรัฐมนตรี วาดวยการลงชื่อในหนังสือราชการ พ.ศ. ๒๕๐๗"
+  },
+  "ระเบียบสํานักนายกรัฐมนตรี วาดวยการลงชื่อในหนังสือราชการ (ฉบับที่ ๒) พ.ศ. ๒๕๑๖": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ระเบียบสํานักนายกรัฐมนตรี วาดวยการลงชื่อในหนังสือราชการ (ฉบับที่ ๒) พ.ศ. ๒๕๑๖"
+  },
+  "ปลัดสํานักนายกรัฐมนตรี": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ปลัดสํานักนายกรัฐมนตรี"
+  },
+  "หน่วยงานอื่น": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "หน่วยงานอื่น"
+  },
+  "บุคคลภายนอก": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "บุคคลภายนอก"
+  },
+  "เอกสารราชการ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "เอกสารราชการ"
+  },
+  "หนังสือภายนอก": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-001",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-010"
+    ],
+    "count": 2,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "หนังสือภายนอก"
+  },
+  "หนังสือภายใน": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-001",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-003"
+    ],
+    "count": 2,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "หนังสือภายใน"
+  },
+  "คำอธิบาย": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "คำอธิบาย"
+  },
+  "ระเบียบ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-001",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-005",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-006",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-016",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-019",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-021",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-031"
+    ],
+    "count": 7,
+    "update_time": 1789045495,
+    "_id": "ระเบียบ"
+  },
+  "คำอธิบายตามวรรคหนึ่ง": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "คำอธิบายตามวรรคหนึ่ง"
+  },
+  "เจ้าของเรื่อง": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "เจ้าของเรื่อง"
+  },
+  "ภาคผนวก ๑": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ภาคผนวก ๑"
+  },
+  "ภาคผนวก ๒": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-002",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-014"
+    ],
+    "count": 2,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ภาคผนวก ๒"
+  },
+  "หนังสือ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-002",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-014",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-015",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-016",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-017",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-019",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-021",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-022",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-023",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-026",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-028"
+    ],
+    "count": 11,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "หนังสือ"
+  },
+  "สถานที่ราชการ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "สถานที่ราชการ"
+  },
+  "วันที่": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-002",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-007",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-008",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-010",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-018"
+    ],
+    "count": 5,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "วันที่"
+  },
+  "เดือน": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-002",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-004",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-008"
+    ],
+    "count": 3,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "เดือน"
+  },
+  "ปีพุทธศักราช": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-002",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-006",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-008"
+    ],
+    "count": 3,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ปีพุทธศักราช"
+  },
+  "สาระสำคัญ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-002"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "สาระสำคัญ"
+  },
+  "ลายมือชื่อ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-002",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-003",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-007",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-008"
+    ],
+    "count": 4,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ลายมือชื่อ"
+  },
+  "ส่วนราชการ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-003",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-021"
+    ],
+    "count": 2,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ส่วนราชการ"
+  },
+  "โทรศัพท์": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-003",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-013"
+    ],
+    "count": 2,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "โทรศัพท์"
+  },
+  "กรม": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-004",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-022",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-028"
+    ],
+    "count": 3,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "กรม"
+  },
+  "ผูรับผิดชอบ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ผูรับผิดชอบ"
+  },
+  "หนังสือประทับตรา": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-004",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-005"
+    ],
+    "count": 2,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "หนังสือประทับตรา"
+  },
+  "ตัวเลข": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ตัวเลข"
+  },
+  "การขอรายละเอียดเพิ่มเติม": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "การขอรายละเอียดเพิ่มเติม"
+  },
+  "การส่งสำเนาหนังสือ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "การส่งสำเนาหนังสือ"
+  },
+  "การตอบรับทราบที่ไม่เกี่ยวกับราชการสำคัญ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "การตอบรับทราบที่ไม่เกี่ยวกับราชการสำคัญ"
+  },
+  "การแจ้งผลงานที่ได้ดำเนินการไปแล้ว": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "การแจ้งผลงานที่ได้ดำเนินการไปแล้ว"
+  },
+  "การเตือนเรื่องที่ค้าง": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "การเตือนเรื่องที่ค้าง"
+  },
+  "ข้อความ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ข้อความ"
+  },
+  "ชื่อส่วนราชการที่ส่งหนังสือออก": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ชื่อส่วนราชการที่ส่งหนังสือออก"
+  },
+  "วัน เดือน ปี": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "วัน เดือน ปี"
+  },
+  "โทร.": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "โทร."
+  },
+  "หนังสือสั่งการ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "หนังสือสั่งการ"
+  },
+  "คําสั่ง": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "คําสั่ง"
+  },
+  "การสั่งการ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-005"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "การสั่งการ"
+  },
+  "ข้อตกลง": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-005",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-014"
+    ],
+    "count": 2,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ข้อตกลง"
+  },
+  "กระดาษตราครุฑ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-006",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-008",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-009",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-014",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-029"
+    ],
+    "count": 5,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "กระดาษตราครุฑ"
+  },
+  "คำสั่ง": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "คำสั่ง"
+  },
+  "อำนาจ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "อำนาจ"
+  },
+  "ผู้ออกคำสั่ง": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ผู้ออกคำสั่ง"
+  },
+  "วันใช้งาน": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-006"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "วันใช้งาน"
+  },
+  "ขอบังคับ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ขอบังคับ"
+  },
+  "ผูออกระเบียบ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ผูออกระเบียบ"
+  },
+  "ราชกิจจานุเบกษา": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-007",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-013",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-014",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-015",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-016",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-017",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-018",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-019",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-023"
+    ],
+    "count": 9,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ราชกิจจานุเบกษา"
+  },
+  "วันใชบังคับ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "วันใชบังคับ"
+  },
+  "ชื่อตัวเต็มของเดือน": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ชื่อตัวเต็มของเดือน"
+  },
+  "ตัวเลขของป": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ตัวเลขของป"
+  },
+  "ตำแหน่ง": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-007",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-008"
+    ],
+    "count": 2,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ตำแหน่ง"
+  },
+  "ขอความ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-007",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-011"
+    ],
+    "count": 2,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ขอความ"
+  },
+  "ฉบับที่": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ฉบับที่"
+  },
+  "อํานาจของกฎหมาย": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-007"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "อํานาจของกฎหมาย"
+  },
+  "ประกาศ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-008",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-031"
+    ],
+    "count": 2,
+    "update_time": 1789045495,
+    "_id": "ประกาศ"
+  },
+  "แถลงการณ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-008",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-009"
+    ],
+    "count": 2,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "แถลงการณ"
+  },
+  "หนังสือประชาสัมพันธ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "หนังสือประชาสัมพันธ"
+  },
+  "รายละเอียด": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-008",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-014"
+    ],
+    "count": 2,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "รายละเอียด"
+  },
+  "ต้นแบบที่กำหนด": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-008"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ต้นแบบที่กำหนด"
+  },
+  "ข่าว": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-009"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ข่าว"
+  },
+  "หนังสือรับรอง": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-009"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "หนังสือรับรอง"
+  },
+  "ราชการ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-009",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-028"
+    ],
+    "count": 2,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ราชการ"
+  },
+  "บันทึก": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-009"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "บันทึก"
+  },
+  "รายงานการประชุม": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-009"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "รายงานการประชุม"
+  },
+  "หน่วยงาน": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-009",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-010",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-015"
+    ],
+    "count": 3,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "หน่วยงาน"
+  },
+  "บุคคล": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-009",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-010",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-015"
+    ],
+    "count": 3,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "บุคคล"
+  },
+  "นิติบุคคล": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-009",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-010"
+    ],
+    "count": 2,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "นิติบุคคล"
+  },
+  "ส่วนราชการเจ้า": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-010"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ส่วนราชการเจ้า"
+  },
+  "หัวหน้าส่วนราชการ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-010",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-025"
+    ],
+    "count": 2,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "หัวหน้าส่วนราชการ"
+  },
+  "รูปถ่าย": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-010"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "รูปถ่าย"
+  },
+  "การประชุม": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-010"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "การประชุม"
+  },
+  "คณะที่ประชุม": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-010"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "คณะที่ประชุม"
+  },
+  "สถานที่ประชุม": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-010"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "สถานที่ประชุม"
+  },
+  "มติของที่ประชุม": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-010"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "มติของที่ประชุม"
+  },
+  "เวลาที่ประชุม": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-010"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "เวลาที่ประชุม"
+  },
+  "จำนวนที่ประชุม": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-010"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "จำนวนที่ประชุม"
+  },
+  "บันทึกความคิดเห็น": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-010"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "บันทึกความคิดเห็น"
+  },
+  "ผูได้รับแตงตั้ง": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ผูได้รับแตงตั้ง"
+  },
+  "ที่ประชุม": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ที่ประชุม"
+  },
+  "ผูที่มาประชุมแทน": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ผูที่มาประชุมแทน"
+  },
+  "ผูไมมาประชุม": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ผูไมมาประชุม"
+  },
+  "ผูเขารวมประชุม": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ผูเขารวมประชุม"
+  },
+  "ประธาน": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ประธาน"
+  },
+  "ผูจดรายงานการประชุม": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ผูจดรายงานการประชุม"
+  },
+  "ผู้บังคับบัญชา": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ผู้บังคับบัญชา"
+  },
+  "หนวยงานระดับตํ่": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "หนวยงานระดับตํ่"
+  },
+  "กระดาษบันทึกขอความ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "กระดาษบันทึกขอความ"
+  },
+  "หนังสืออื่น": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-011",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-012"
+    ],
+    "count": 2,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "หนังสืออื่น"
+  },
+  "เหตุผล": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "เหตุผล"
+  },
+  "เวลาที่เริ่มประชุม": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "เวลาที่เริ่มประชุม"
+  },
+  "เวลาที่เลิกประชุม": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "เวลาที่เลิกประชุม"
+  },
+  "วันเดือนปีที่บันทึก": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "วันเดือนปีที่บันทึก"
+  },
+  "เจาหนาที่": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-012"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "เจาหนาที่"
+  },
+  "กระทรวง": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-012",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-022",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-028"
+    ],
+    "count": 3,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "กระทรวง"
+  },
+  "หนังสือของบุคคลภายนอก": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-012"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "หนังสือของบุคคลภายนอก"
+  },
+  "แบบที่ ๑": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-012"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "แบบที่ ๑"
+  },
+  "แบบที่ ๒": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-012"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "แบบที่ ๒"
+  },
+  "แบบที่ ๓": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-012"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "แบบที่ ๓"
+  },
+  "ข้อความดวนแก่ผูรับ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-012"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ข้อความดวนแก่ผูรับ"
+  },
+  "สิ่งที่ต้องปฏิบัติ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-012"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "สิ่งที่ต้องปฏิบัติ"
+  },
+  "วิทยุกระจายเสียง": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-013"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "วิทยุกระจายเสียง"
+  },
+  "วิทยุโทรทัศน์": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-013"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "วิทยุโทรทัศน์"
+  },
+  "วิทยุสื่อสาร": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-013"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "วิทยุสื่อสาร"
+  },
+  "เจ้านءาที่": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-013"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "เจ้านءาที่"
+  },
+  "ผูรับ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-013",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-016"
+    ],
+    "count": 2,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ผูรับ"
+  },
+  "หน่วยงานสารบรรณกลาง": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-013"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "หน่วยงานสารบรรณกลาง"
+  },
+  "หนังสือเวียน": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-013"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "หนังสือเวียน"
+  },
+  "หนวยงาน": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-013"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "หนวยงาน"
+  },
+  "ภาคผนวก ๔": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-014"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ภาคผนวก ๔"
+  },
+  "การรับหนังสือ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-014"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "การรับหนังสือ"
+  },
+  "การส่งหนังสือ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-014"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "การส่งหนังสือ"
+  },
+  "สารบรรณกลาง": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-014",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-015"
+    ],
+    "count": 2,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "สารบรรณกลาง"
+  },
+  "การจัดลําดับ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-014"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "การจัดลําดับ"
+  },
+  "การตรวจเอกสาร": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-014"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "การตรวจเอกสาร"
+  },
+  "หมายเหตุ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-014",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-019"
+    ],
+    "count": 2,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "หมายเหตุ"
+  },
+  "เลขทะเบียนรับ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-014",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-018"
+    ],
+    "count": 2,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "เลขทะเบียนรับ"
+  },
+  "ชื่อเรื่อง": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-014"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ชื่อเรื่อง"
+  },
+  "การสั่งหนังสือ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-015"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "การสั่งหนังสือ"
+  },
+  "วิตกกังวล": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-015"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "วิตกกังวล"
+  },
+  "ทะเบียน": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-016"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ทะเบียน"
+  },
+  "ประเทศไทย": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-016",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-021"
+    ],
+    "count": 2,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ประเทศไทย"
+  },
+  "เจาหน้าที่": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-016"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "เจาหน้าที่"
+  },
+  "ขอ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-016"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ขอ"
+  },
+  "จาหนาซอง": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-016"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "จาหนาซอง"
+  },
+  "ใบรับ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-016"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ใบรับ"
+  },
+  "สมุดส่งหนังสือ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-017",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-029",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-030"
+    ],
+    "count": 3,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "สมุดส่งหนังสือ"
+  },
+  "ใบรับหนังสือ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-017",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-030"
+    ],
+    "count": 2,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ใบรับหนังสือ"
+  },
+  "ผู้อยู่ในสายงานราชการ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-017"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ผู้อยู่ในสายงานราชการ"
+  },
+  "หน่วยรับ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-017"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "หน่วยรับ"
+  },
+  "เครื่องหมายรับรอง": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-017"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "เครื่องหมายรับรอง"
+  },
+  "ผู้ออกหนังสือ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-017"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ผู้ออกหนังสือ"
+  },
+  "บัตรตรวจค้น": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-018",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-030"
+    ],
+    "count": 2,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "บัตรตรวจค้น"
+  },
+  "ทะเบียนหนังสือ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-018"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ทะเบียนหนังสือ"
+  },
+  "การเก็บรักษา": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-018"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "การเก็บรักษา"
+  },
+  "การเก็บระหว่างปฏิบัติ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-018"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "การเก็บระหว่างปฏิบัติ"
+  },
+  "การเก็บเมื่อปฏิบัติเสร็จแล้ว": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-018"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "การเก็บเมื่อปฏิบัติเสร็จแล้ว"
+  },
+  "การบันทึกการปฏิบัติ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-018"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "การบันทึกการปฏิบัติ"
+  },
+  "การเก็บหนังสือ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-019",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-020"
+    ],
+    "count": 2,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "การเก็บหนังสือ"
+  },
+  "การตรวจสอบ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-019"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "การตรวจสอบ"
+  },
+  "ตรา": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-019",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-028"
+    ],
+    "count": 2,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ตรา"
+  },
+  "อายุการเก็บหนังสือ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-019",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-020"
+    ],
+    "count": 2,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "อายุการเก็บหนังสือ"
+  },
+  "หน่วยเก็บ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-019"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "หน่วยเก็บ"
+  },
+  "หน่วยเก็บของส่วนราชการ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-020"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "หน่วยเก็บของส่วนราชการ"
+  },
+  "เจ้าเรื่อง": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-020"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "เจ้าเรื่อง"
+  },
+  "กรมศิลปากร": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-020",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-021",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-022",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-023",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-025",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-026",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-027"
+    ],
+    "count": 7,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "กรมศิลปากร"
+  },
+  "กองจดหมายเหตุแห่งชาติ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-020",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-022",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-025",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-027",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-031"
+    ],
+    "count": 5,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "กองจดหมายเหตุแห่งชาติ"
+  },
+  "หนังสือที่ต้องสงวนเป็นความลับ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-020"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "หนังสือที่ต้องสงวนเป็นความลับ"
+  },
+  "หนังสือหลักฐานทางอรรถคดี": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-020"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "หนังสือหลักฐานทางอรรถคดี"
+  },
+  "การทำลายเอกสาร": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-020"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "การทำลายเอกสาร"
+  },
+  "เอกสารสิทธิ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-020"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "เอกสารสิทธิ"
+  },
+  "การศึกษาค้นคว้า": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-020"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "การศึกษาค้นคว้า"
+  },
+  "กองจดหมายเหต ุแหงชาติ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-021"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "กองจดหมายเหต ุแหงชาติ"
+  },
+  "บัญชีหนังสือครบ ๒๕ ปี": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-021"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "บัญชีหนังสือครบ ๒๕ ปี"
+  },
+  "เป็นหนังสือที่มีความสำคัญ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-022"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "เป็นหนังสือที่มีความสำคัญ"
+  },
+  "ทบวง": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-022"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ทบวง"
+  },
+  "กอง": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-022"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "กอง"
+  },
+  "ขอเก็บเอง": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-022"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ขอเก็บเอง"
+  },
+  "บัญชีหนังสือครบ ๒๕ ปี ที่ขอเก็บเอง": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-022"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "บัญชีหนังสือครบ ๒๕ ปี ที่ขอเก็บเอง"
+  },
+  "กระทรวง ทบวง กรม กอง": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-023"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "กระทรวง ทบวง กรม กอง"
+  },
+  "กองจดหมายเหตุแหงชาติ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-023"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "กองจดหมายเหตุแหงชาติ"
+  },
+  "ผู้ฝาก": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-023"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ผู้ฝาก"
+  },
+  "ผู้รับฝาก": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-023"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ผู้รับฝาก"
+  },
+  "บัญชีฝากหนังสือ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-023",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-030",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-031"
+    ],
+    "count": 3,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "บัญชีฝากหนังสือ"
+  },
+  "การยืม": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-024"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "การยืม"
+  },
+  "ผูยืม": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-024"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ผูยืม"
+  },
+  "เจาหนาที่เก็บ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-024"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "เจาหนาที่เก็บ"
+  },
+  "เอกสารสิทธิตามกฎหมาย": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-024"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "เอกสารสิทธิตามกฎหมาย"
+  },
+  "หลักฐานการยืม": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-024"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "หลักฐานการยืม"
+  },
+  "การยืมหนังสือ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-024"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "การยืมหนังสือ"
+  },
+  "เจ้าหน้าที่": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-025"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "เจ้าหน้าที่"
+  },
+  "คณะกรรมการทําลายหนังสือ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-025",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-026"
+    ],
+    "count": 2,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "คณะกรรมการทําลายหนังสือ"
+  },
+  "บัญชีหนังสือขอทําลาย": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-025",
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-026"
+    ],
+    "count": 2,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "บัญชีหนังสือขอทําลาย"
+  },
+  "ระเบียบการทําลายหนังสือ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-025"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ระเบียบการทําลายหนังสือ"
+  },
+  "เอกสาร": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-025"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "เอกสาร"
+  },
+  "ระยะเวลาการเก็บหนังสือ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-025"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ระยะเวลาการเก็บหนังสือ"
+  },
+  "หัวหนาสวนราชการระดับกรม": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-026"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "หัวหนาสวนราชการระดับกรม"
+  },
+  "กรรมการ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-026"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "กรรมการ"
+  },
+  "รายงานผลการพิจารณา": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-026"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "รายงานผลการพิจารณา"
+  },
+  "มติของคณะกรรมการ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-026"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "มติของคณะกรรมการ"
+  },
+  "หนังสือขอทำลาย": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-027"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "หนังสือขอทำลาย"
+  },
+  "แบบพิมพ์": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-027"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "แบบพิมพ์"
+  },
+  "ตราครุฑ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-027"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ตราครุฑ"
+  },
+  "มาตรฐานตรา": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-027"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "มาตรฐานตรา"
+  },
+  "ส่วรราชการ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-027"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ส่วรราชการ"
+  },
+  "ขยายเวลา": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-027"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ขยายเวลา"
+  },
+  "จังหวัด": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-028"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "จังหวัด"
+  },
+  "กระดาษ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-028"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "กระดาษ"
+  },
+  "มาตรฐาน": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-028"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "มาตรฐาน"
+  },
+  "ตรากระทรวง": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-028"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ตรากระทรวง"
+  },
+  "ขนาด": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-028"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ขนาด"
+  },
+  "พ.ศ.": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-028"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "พ.ศ."
+  },
+  "มาตรฐานกระดาษ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-028"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "มาตรฐานกระดาษ"
+  },
+  "มิลลิเมตร": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-029"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "มิลลิเมตร"
+  },
+  "ซองหนังสือ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-029"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ซองหนังสือ"
+  },
+  "ตรารับหนังสือ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-029"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ตรารับหนังสือ"
+  },
+  "ทะเบียนหนังสือรับ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-029"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ทะเบียนหนังสือรับ"
+  },
+  "ทะเบียนหนังสือส่ง": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-029"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ทะเบียนหนังสือส่ง"
+  },
+  "ขนาดเอ 4": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-029"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ขนาดเอ 4"
+  },
+  "ขนาดเอ 5": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-029"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ขนาดเอ 5"
+  },
+  "ขนาดซี 4": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-029"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ขนาดซี 4"
+  },
+  "ขนาดซี 5": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-029"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ขนาดซี 5"
+  },
+  "ขนาดซี 6": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-029"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ขนาดซี 6"
+  },
+  "ขนาดดีแอล": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-029"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ขนาดดีแอล"
+  },
+  "บัญชีหนังสือส่งเก็บ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-030"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "บัญชีหนังสือส่งเก็บ"
+  },
+  "ทะเบียนหนังสือเก็บ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-030"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "ทะเบียนหนังสือเก็บ"
+  },
+  "บัญชีส่งมอบหนังสือครบ 25 ปี": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-030"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "บัญชีส่งมอบหนังสือครบ 25 ปี"
+  },
+  "บัญชีหนังสือครบ 25 ปี ที่ขอเก็บเอง": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-030"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "บัญชีหนังสือครบ 25 ปี ที่ขอเก็บเอง"
+  },
+  "บัตรยืมหนังสือ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-031"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "บัตรยืมหนังสือ"
+  },
+  "บัญชีหนังสือขอทำลาย": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-031"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "บัญชีหนังสือขอทำลาย"
+  },
+  "แบบพิมพ์และซอง": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-031"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "แบบพิมพ์และซอง"
+  },
+  "พลเอก เปรม ติณสูลานนท์": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-031"
+    ],
+    "count": 1,
+    "create_time": 1789045491,
+    "update_time": 1789045491,
+    "_id": "พลเอก เปรม ติณสูลานนท์"
+  },
+  "คณะกรรมการพิจารณาปรับปรุงและพัฒนาระเบียบ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-001"
+    ],
+    "count": 1,
+    "create_time": 1789045495,
+    "update_time": 1789045495,
+    "_id": "คณะกรรมการพิจารณาปรับปรุงและพัฒนาระเบียบ"
+  },
+  "หัวหนาสวนราชการ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-004"
+    ],
+    "count": 1,
+    "create_time": 1789045495,
+    "update_time": 1789045495,
+    "_id": "หัวหนาสวนราชการ"
+  },
+  "ผูใต้บังคับบัญชา": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1789045495,
+    "update_time": 1789045495,
+    "_id": "ผูใต้บังคับบัญชา"
+  },
+  "ผูบังคับบัญชา": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-011"
+    ],
+    "count": 1,
+    "create_time": 1789045495,
+    "update_time": 1789045495,
+    "_id": "ผูบังคับบัญชา"
+  },
+  "ใบรัรับ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-016"
+    ],
+    "count": 1,
+    "create_time": 1789045495,
+    "update_time": 1789045495,
+    "_id": "ใบรัรับ"
+  },
+  "กระทรวงการคลัง": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-020"
+    ],
+    "count": 1,
+    "create_time": 1789045495,
+    "update_time": 1789045495,
+    "_id": "กระทรวงการคลัง"
+  },
+  "หนังสือที่เกี่ยวกับประวัติศาสตร์": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-020"
+    ],
+    "count": 1,
+    "create_time": 1789045495,
+    "update_time": 1789045495,
+    "_id": "หนังสือที่เกี่ยวกับประวัติศาสตร์"
+  },
+  "หารการ": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-026"
+    ],
+    "count": 1,
+    "create_time": 1789045495,
+    "update_time": 1789045495,
+    "_id": "หารการ"
+  },
+  "กองจดหมายเหตุแห่งชาติ กรมศิลปากร": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-030"
+    ],
+    "count": 1,
+    "create_time": 1789045495,
+    "update_time": 1789045495,
+    "_id": "กองจดหมายเหตุแห่งชาติ กรมศิลปากร"
+  },
+  "หนังสือที่ให้ยืม": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-031"
+    ],
+    "count": 1,
+    "create_time": 1789045495,
+    "update_time": 1789045495,
+    "_id": "หนังสือที่ให้ยืม"
+  },
+  "หนังสือที่ครบกำหนด": {
+    "chunk_ids": [
+      "doc-06774247da1722a2a4938aa36ec173a4-chunk-031"
+    ],
+    "count": 1,
+    "create_time": 1789045495,
+    "update_time": 1789045495,
+    "_id": "หนังสือที่ครบกำหนด"
+  }
+}
